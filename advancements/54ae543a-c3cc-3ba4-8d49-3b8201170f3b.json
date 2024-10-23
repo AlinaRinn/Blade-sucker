@@ -1,0 +1,32 @@
+{
+  "divinerpg:overworld/root": {
+    "criteria": {
+      "divinerpg": "2024-02-11 00:01:14 +0300"
+    },
+    "done": true
+  },
+  "galacticraftcore:galacticraft/root": {
+    "criteria": {
+      "tick": "2024-02-11 00:01:15 +0300"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2024-02-11 00:01:15 +0300"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2024-02-11 00:01:15 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "forest": "2024-02-11 00:01:14 +0300"
+    },
+    "done": false
+  }
+}
