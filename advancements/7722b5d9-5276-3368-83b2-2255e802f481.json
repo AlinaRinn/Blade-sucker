@@ -379,6 +379,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/sugar": {
+    "criteria": {
+      "has_reeds": "2024-10-25 00:45:56 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_brick_block": "2024-01-12 21:00:50 +0300"
@@ -1208,6 +1214,13 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/orange_dye_from_red_yellow": {
+    "criteria": {
+      "has_red_dye": "2024-10-25 01:28:59 +0300",
+      "has_yellow_dye": "2024-10-25 01:28:59 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2024-01-12 01:45:37 +0300"
@@ -1283,6 +1296,12 @@
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-01-12 04:16:21 +0300"
+    },
+    "done": true
+  },
+  "buildcrafttransport:pipe_logic": {
+    "criteria": {
+      "code_trigger": "2024-10-25 00:14:04 +0300"
     },
     "done": true
   },
@@ -1430,9 +1449,21 @@
     },
     "done": true
   },
+  "cfm:minekea": {
+    "criteria": {
+      "get_chair_or_table": "2024-10-25 01:41:46 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2024-01-12 04:16:21 +0300"
+    },
+    "done": true
+  },
+  "buildcrafttransport:extended_logic": {
+    "criteria": {
+      "code_trigger": "2024-10-25 00:14:04 +0300"
     },
     "done": true
   },
@@ -1971,6 +2002,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2024-10-25 00:45:56 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2024-01-12 21:26:55 +0300"
@@ -2336,6 +2373,12 @@
   "appliedenergistics2:main/fluix": {
     "criteria": {
       "certus": "2024-01-28 02:53:39 +0300"
+    },
+    "done": true
+  },
+  "cfm:appliance_city": {
+    "criteria": {
+      "place_appliance": "2024-10-25 01:41:57 +0300"
     },
     "done": true
   },
