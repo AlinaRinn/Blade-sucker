@@ -421,6 +421,12 @@
     },
     "done": true
   },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2024-11-24 23:55:54 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-01-13 00:01:26 +0300"
@@ -556,6 +562,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "shulker": "2024-01-18 23:10:59 +0300",
+      "wither_skeleton": "2024-11-24 23:57:17 +0300",
       "zombie_villager": "2024-01-12 21:12:51 +0300",
       "magma_cube": "2024-01-21 00:41:29 +0300",
       "slime": "2024-10-24 00:54:20 +0300",
@@ -567,6 +574,7 @@
       "silverfish": "2024-01-13 04:19:25 +0300",
       "witch": "2024-01-12 20:53:37 +0300",
       "spider": "2024-01-12 02:42:26 +0300",
+      "ghast": "2024-11-24 23:55:29 +0300",
       "creeper": "2024-01-12 05:36:52 +0300",
       "enderman": "2024-01-20 23:51:02 +0300"
     },

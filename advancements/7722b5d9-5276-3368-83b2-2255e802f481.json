@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "enderioconduits:start/1_binder_composite": {
+    "criteria": {
+      "inv_changed-enderio:binder_composite": "2024-11-24 23:11:40 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2024-01-12 02:15:32 +0300"
@@ -1043,6 +1049,12 @@
     },
     "done": true
   },
+  "enderioconduits:start/2_conduit_binder": {
+    "criteria": {
+      "inv_changed-enderio:conduit_binder": "2024-11-24 23:17:07 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-01-15 02:33:21 +0300"
@@ -1086,6 +1098,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-01-12 02:14:07 +0300"
+    },
+    "done": true
+  },
+  "enderioconduits:fluid/1_fluid_conduit": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit": "2024-11-24 23:17:24 +0300"
     },
     "done": true
   },
@@ -1772,7 +1790,8 @@
   "enderioconduits:goals/all_conduits": {
     "criteria": {
       "inv_changed-enderio:power_conduit_enhanced2": "2024-01-21 01:56:32 +0300",
-      "inv_changed-enderio:redstone_conduit2": "2024-01-28 02:00:18 +0300"
+      "inv_changed-enderio:redstone_conduit2": "2024-01-28 02:00:18 +0300",
+      "inv_changed-enderio:liquid_conduit_ender2": "2024-11-24 23:17:24 +0300"
     },
     "done": false
   },
@@ -2579,6 +2598,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_at_least_9_bonemeal": "2024-01-12 21:26:55 +0300"
+    },
+    "done": true
+  },
+  "enderioconduits:fluid/3_fluid_conduit_ender": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit_ender": "2024-11-24 23:17:24 +0300"
     },
     "done": true
   }
