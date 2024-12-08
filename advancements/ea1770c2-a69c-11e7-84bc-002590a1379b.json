@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "enderioconduits:start/1_binder_composite": {
+    "criteria": {
+      "inv_changed-enderio:binder_composite": "2024-12-01 00:33:56 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/speckled_melon": {
     "criteria": {
       "has_melon": "2024-01-13 03:36:51 +0300"
@@ -616,6 +622,12 @@
     },
     "done": true
   },
+  "enderiomachines:basics/sagmill/a_powder_coating": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-12-01 02:18:48 +0300"
+    },
+    "done": true
+  },
   "twilightforest:alt/compat/tc_aspects": {
     "criteria": {
       "crystal_essence": "2024-01-12 02:40:57 +0300"
@@ -718,6 +730,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-06 22:52:27 +0300"
+    },
+    "done": true
+  },
   "minecraft:end/root": {
     "criteria": {
       "entered_end": "2024-01-26 00:26:24 +0300"
@@ -805,6 +823,12 @@
   "enderio:gears/g4_energized_gear": {
     "criteria": {
       "inv_changed-enderio:item_material": "2024-11-05 02:04:19 +0300"
+    },
+    "done": true
+  },
+  "enderio:start/1_infinity_powder_get": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-12-01 02:00:17 +0300"
     },
     "done": true
   },
@@ -1060,6 +1084,12 @@
     },
     "done": true
   },
+  "enderioconduits:start/2_conduit_binder": {
+    "criteria": {
+      "inv_changed-enderio:conduit_binder": "2024-12-01 00:43:50 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/sticky_piston": {
     "criteria": {
       "has_slime_ball": "2024-01-12 02:50:36 +0300"
@@ -1089,7 +1119,9 @@
       "savanna": "2024-01-12 02:14:25 +0300",
       "plains": "2024-01-12 01:43:02 +0300",
       "savanna_rock": "2024-01-12 02:15:15 +0300",
+      "taiga": "2024-12-07 19:33:45 +0300",
       "ocean": "2024-01-12 02:13:42 +0300",
+      "roofed_forest": "2024-11-26 22:28:17 +0300",
       "river": "2024-01-12 02:13:40 +0300",
       "jungle": "2024-11-05 01:40:38 +0300",
       "desert": "2024-01-12 02:16:48 +0300"
@@ -1105,6 +1137,12 @@
   "minecraft:recipes/misc/book": {
     "criteria": {
       "has_paper": "2024-01-19 03:39:29 +0300"
+    },
+    "done": true
+  },
+  "enderioconduits:fluid/1_fluid_conduit": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit": "2024-12-08 01:28:37 +0300"
     },
     "done": true
   },
@@ -1129,6 +1167,12 @@
   "minecraft:recipes/tools/stone_pickaxe": {
     "criteria": {
       "has_cobblestone": "2024-01-12 01:45:28 +0300"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/alloy/machine_chassis_get": {
+    "criteria": {
+      "inv_changed-enderio:block_machine_chassis": "2024-12-01 02:19:11 +0300"
     },
     "done": true
   },
@@ -1207,6 +1251,12 @@
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2024-01-15 03:01:17 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_shulker_box": {
+    "criteria": {
+      "has_shulker_shell": "2024-11-28 20:42:16 +0300"
     },
     "done": true
   },
@@ -1516,6 +1566,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2024-12-01 02:42:08 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2024-01-12 01:53:44 +0300"
@@ -1536,14 +1592,18 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2024-12-07 20:45:14 +0300",
       "cooked_mutton": "2024-01-26 01:53:42 +0300",
       "cooked_beef": "2024-07-25 00:08:50 +0300",
       "baked_potato": "2024-11-05 02:20:06 +0300",
       "apple": "2024-01-12 01:44:12 +0300",
+      "spider_eye": "2024-12-07 01:42:49 +0300",
       "bread": "2024-01-12 03:58:20 +0300",
       "golden_apple": "2024-10-21 00:42:24 +0300",
       "rotten_flesh": "2024-01-12 01:58:37 +0300",
       "beetroot": "2024-01-13 02:35:49 +0300",
+      "cooked_rabbit": "2024-12-07 20:45:05 +0300",
+      "cooked_chicken": "2024-11-28 23:43:46 +0300",
       "carrot": "2024-01-12 02:28:13 +0300"
     },
     "done": false
@@ -1581,6 +1641,12 @@
   "minecraft:recipes/decorations/orange_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-01-12 05:14:14 +0300"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/9_white": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-12-01 02:11:15 +0300"
     },
     "done": true
   },
@@ -1691,7 +1757,8 @@
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
       "bred_chicken": "2024-11-08 02:15:26 +0300",
-      "bred_horse": "2024-01-24 04:20:39 +0300"
+      "bred_horse": "2024-01-24 04:20:39 +0300",
+      "bred_cow": "2024-11-26 22:54:54 +0300"
     },
     "done": false
   },
@@ -1791,6 +1858,13 @@
     },
     "done": true
   },
+  "enderioconduits:goals/all_conduits": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit_ender2": "2024-12-01 00:50:26 +0300",
+      "inv_changed-enderio:liquid_conduit_ender2": "2024-12-08 01:28:37 +0300"
+    },
+    "done": false
+  },
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2024-01-12 02:48:40 +0300"
@@ -1818,6 +1892,12 @@
   "minecraft:recipes/misc/light_gray_dye_from_ink_bonemeal": {
     "criteria": {
       "has_bonemeal": "2024-01-12 05:24:24 +0300"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/7_black": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-12-01 02:17:17 +0300"
     },
     "done": true
   },
@@ -2190,6 +2270,12 @@
     },
     "done": true
   },
+  "enderiomachines:root": {
+    "criteria": {
+      "inv_changed-enderio:block_machine_chassis_root": "2024-12-01 02:19:11 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2024-01-12 02:48:40 +0300"
@@ -2262,9 +2348,21 @@
     },
     "done": true
   },
+  "enderioconduits:energy/1_energy_conduit": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit": "2024-12-01 00:50:26 +0300"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2024-01-12 01:54:03 +0300"
+    },
+    "done": true
+  },
+  "enderioconduits:energy/3_energy_conduit_ender": {
+    "criteria": {
+      "inv_changed-enderio:power_conduit_ender": "2024-12-01 00:50:26 +0300"
     },
     "done": true
   },
@@ -2295,6 +2393,12 @@
   "minecraft:recipes/building_blocks/magma": {
     "criteria": {
       "has_magma_cream": "2024-01-13 04:18:40 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2024-12-06 22:52:27 +0300"
     },
     "done": true
   },
@@ -2346,6 +2450,12 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2024-12-06 22:52:27 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/quartz_block": {
     "criteria": {
       "has_quartz": "2024-01-12 02:06:37 +0300"
@@ -2391,6 +2501,12 @@
   "minecraft:recipes/decorations/nether_brick_fence": {
     "criteria": {
       "has_nether_brick": "2024-01-13 04:27:01 +0300"
+    },
+    "done": true
+  },
+  "enderiomachines:basics/sagmill/5_green": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-12-01 02:17:17 +0300"
     },
     "done": true
   },
@@ -2568,6 +2684,12 @@
     },
     "done": true
   },
+  "enderio:start/2_simple_chassis_get": {
+    "criteria": {
+      "inv_changed-enderio:item_material": "2024-12-01 02:10:19 +0300"
+    },
+    "done": true
+  },
   "appliedenergistics2:main/facade": {
     "criteria": {
       "facade": "2024-02-26 23:11:16 +0300"
@@ -2613,6 +2735,12 @@
   "minecraft:recipes/building_blocks/bone_block": {
     "criteria": {
       "has_at_least_9_bonemeal": "2024-01-16 00:37:55 +0300"
+    },
+    "done": true
+  },
+  "enderioconduits:fluid/3_fluid_conduit_ender": {
+    "criteria": {
+      "inv_changed-enderio:liquid_conduit_ender": "2024-12-08 01:28:37 +0300"
     },
     "done": true
   }
