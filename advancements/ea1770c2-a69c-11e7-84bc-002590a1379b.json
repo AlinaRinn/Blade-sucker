@@ -215,6 +215,12 @@
     },
     "done": true
   },
+  "buildcraftfactory:black_gold": {
+    "criteria": {
+      "code_trigger": "2024-12-08 19:36:21 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2024-01-12 03:06:08 +0300"
@@ -263,6 +269,12 @@
     },
     "done": true
   },
+  "enderioconduits:item/1_item_conduit": {
+    "criteria": {
+      "inv_changed-enderio:item_conduit": "2024-12-08 23:58:47 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone_stairs": {
     "criteria": {
       "has_sandstone": "2024-01-12 20:27:16 +0300"
@@ -299,6 +311,12 @@
     },
     "done": true
   },
+  "cfm:bathroom": {
+    "criteria": {
+      "get_bathroom_furniture": "2024-12-09 01:22:32 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/speckled_melon": {
     "criteria": {
       "has_melon": "2024-01-13 03:36:51 +0300"
@@ -308,6 +326,12 @@
   "minecraft:recipes/misc/iron_ingot_from_block": {
     "criteria": {
       "has_the_recipe": "2024-01-12 02:48:35 +0300"
+    },
+    "done": true
+  },
+  "cfm:what_did_you_eat": {
+    "criteria": {
+      "player_fart": "2024-12-09 01:22:55 +0300"
     },
     "done": true
   },
@@ -567,6 +591,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "zombie_pigman": "2024-12-31 01:03:47 +0300",
       "shulker": "2024-01-18 23:10:59 +0300",
       "wither_skeleton": "2024-11-24 23:57:17 +0300",
       "zombie_villager": "2024-01-12 21:12:51 +0300",
@@ -1861,6 +1886,7 @@
   "enderioconduits:goals/all_conduits": {
     "criteria": {
       "inv_changed-enderio:power_conduit_ender2": "2024-12-01 00:50:26 +0300",
+      "inv_changed-enderio:item_conduit2": "2024-12-08 23:58:47 +0300",
       "inv_changed-enderio:liquid_conduit_ender2": "2024-12-08 01:28:37 +0300"
     },
     "done": false
@@ -1922,6 +1948,12 @@
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_brown_mushroom": "2024-01-13 02:50:20 +0300"
+    },
+    "done": true
+  },
+  "buildcraftcore:guide": {
+    "criteria": {
+      "code_trigger": "2024-12-09 00:17:13 +0300"
     },
     "done": true
   },
