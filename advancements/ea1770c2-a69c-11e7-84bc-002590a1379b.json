@@ -197,6 +197,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/stable_ice_core": {
+    "criteria": {
+      "hurt_by_indirect": "2025-01-07 00:55:44 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_the_recipe": "2024-01-12 01:46:32 +0300"
@@ -257,9 +263,21 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/goblins": {
+    "criteria": {
+      "0": "2025-01-07 01:44:10 +0300"
+    },
+    "done": true
+  },
   "aether_legacy:recipes/combat/leather_gloves": {
     "criteria": {
       "has_leather": "2024-01-12 02:48:35 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/penguin": {
+    "criteria": {
+      "slay": "2025-01-07 00:59:15 +0300"
     },
     "done": true
   },
@@ -335,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-01-19 02:51:59 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-01-12 02:11:25 +0300"
@@ -373,6 +397,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2025-01-07 01:21:35 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/lime_dye": {
     "criteria": {
       "has_bonemeal": "2024-01-12 05:24:24 +0300"
@@ -394,6 +424,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab": {
     "criteria": {
       "has_sandstone": "2024-01-12 20:27:16 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/cable_glass": {
+    "criteria": {
+      "certus": "2025-01-07 00:18:38 +0300"
     },
     "done": true
   },
@@ -767,6 +803,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/yeti": {
+    "criteria": {
+      "slay": "2025-01-07 01:06:34 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2024-01-12 01:53:44 +0300"
@@ -788,6 +830,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2024-01-12 05:14:14 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/undead": {
+    "criteria": {
+      "0": "2025-01-07 00:43:33 +0300"
     },
     "done": true
   },
@@ -965,6 +1013,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/skeleton_druid": {
+    "criteria": {
+      "hurt_by_indirect": "2025-01-07 00:43:33 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_log": "2024-01-12 01:25:21 +0300"
@@ -1007,6 +1061,12 @@
     },
     "done": true
   },
+  "twilightforest:magic_map": {
+    "criteria": {
+      "map": "2025-01-07 00:53:59 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_planks": {
     "criteria": {
       "has_log": "2024-01-12 01:47:05 +0300"
@@ -1046,6 +1106,12 @@
   "minecraft:recipes/redstone/birch_fence_gate": {
     "criteria": {
       "has_planks": "2024-01-12 05:29:13 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/biomes/mushroom_forest": {
+    "criteria": {
+      "discover": "2025-01-07 01:33:15 +0300"
     },
     "done": true
   },
@@ -1180,6 +1246,12 @@
   "minecraft:recipes/decorations/cobblestone_wall": {
     "criteria": {
       "has_cobblestone": "2024-01-12 01:45:28 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2025-01-07 01:21:35 +0300"
     },
     "done": true
   },
@@ -1345,6 +1417,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/twilight_glacier": {
+    "criteria": {
+      "discover": "2025-01-07 00:54:47 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2024-01-12 01:53:44 +0300"
@@ -1441,6 +1519,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/winter_wolf": {
+    "criteria": {
+      "hurt_by_indirect": "2025-01-07 01:16:23 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2024-01-12 01:53:44 +0300"
@@ -1450,6 +1534,12 @@
   "buildcrafttransport:pipe_logic": {
     "criteria": {
       "code_trigger": "2024-01-25 01:50:24 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/major_landmarks/yeti_lairs": {
+    "criteria": {
+      "discover": "2025-01-07 01:00:54 +0300"
     },
     "done": true
   },
@@ -1468,6 +1558,18 @@
   "aether_legacy:recipes/building_blocks/skyroot_bookshelf": {
     "criteria": {
       "has_book": "2024-01-13 03:40:18 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/yeti_alpha": {
+    "criteria": {
+      "hurt": "2025-01-07 01:02:10 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2025-01-07 01:21:35 +0300"
     },
     "done": true
   },
@@ -1623,6 +1725,7 @@
       "baked_potato": "2024-11-05 02:20:06 +0300",
       "apple": "2024-01-12 01:44:12 +0300",
       "spider_eye": "2024-12-07 01:42:49 +0300",
+      "pufferfish": "2025-01-19 03:02:10 +0300",
       "bread": "2024-01-12 03:58:20 +0300",
       "golden_apple": "2024-10-21 00:42:24 +0300",
       "rotten_flesh": "2024-01-12 01:58:37 +0300",
@@ -1639,9 +1742,27 @@
     },
     "done": true
   },
+  "twilightforest:alt/entities/wolves": {
+    "criteria": {
+      "2": "2025-01-07 01:16:23 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2024-01-12 01:46:46 +0300"
+    },
+    "done": true
+  },
+  "enderioconduits:redstone/1_redstone_conduit": {
+    "criteria": {
+      "inv_changed-enderio:redstone_conduit": "2025-01-07 00:15:35 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/redcap": {
+    "criteria": {
+      "hurt_by_indirect": "2025-01-07 01:44:10 +0300"
     },
     "done": true
   },
@@ -1713,6 +1834,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/maps": {
+    "criteria": {
+      "0": "2025-01-07 00:49:48 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2024-01-12 03:27:27 +0300"
@@ -1752,6 +1879,12 @@
   "minecraft:nether/get_wither_skull": {
     "criteria": {
       "wither_skull": "2024-07-25 00:31:58 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/magic_map": {
+    "criteria": {
+      "magic_map_focus": "2025-01-07 00:49:48 +0300"
     },
     "done": true
   },
@@ -1886,6 +2019,7 @@
   "enderioconduits:goals/all_conduits": {
     "criteria": {
       "inv_changed-enderio:power_conduit_ender2": "2024-12-01 00:50:26 +0300",
+      "inv_changed-enderio:redstone_conduit2": "2025-01-07 00:15:35 +0300",
       "inv_changed-enderio:item_conduit2": "2024-12-08 23:58:47 +0300",
       "inv_changed-enderio:liquid_conduit_ender2": "2024-12-08 01:28:37 +0300"
     },
@@ -2089,6 +2223,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/arctic_armor_set": {
+    "criteria": {
+      "ingredient": "2025-01-07 01:02:33 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2024-01-12 05:14:14 +0300"
@@ -2203,6 +2343,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/major_landmarks/ice_tower": {
+    "criteria": {
+      "discover": "2025-01-07 00:55:10 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lapis_ink_bonemeal": {
     "criteria": {
       "has_lapis": "2024-01-12 03:43:59 +0300"
@@ -2296,6 +2442,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/ice_bomb": {
+    "criteria": {
+      "ice_bomb": "2025-01-07 01:06:29 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_at_least_9_coal": "2024-01-12 01:44:55 +0300"
@@ -2323,6 +2475,12 @@
   "enderio:gears/g5_vibrant_gear": {
     "criteria": {
       "inv_changed-enderio:item_material": "2024-01-12 04:27:06 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/yeti_armor_set": {
+    "criteria": {
+      "ingredient": "2025-01-07 01:06:29 +0300"
     },
     "done": true
   },
@@ -2500,6 +2658,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/armors": {
+    "criteria": {
+      "6": "2025-01-07 01:02:33 +0300"
+    },
+    "done": true
+  },
   "buildcraftfactory:recipes/water_gel_spawn": {
     "criteria": {
       "has_sand": "2024-01-12 04:20:10 +0300"
@@ -2632,6 +2796,12 @@
     },
     "done": true
   },
+  "twilightforest:magic_map_focus": {
+    "criteria": {
+      "focus": "2025-01-07 00:49:48 +0300"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_end": {
     "criteria": {
       "entered_end": "2024-01-26 00:26:24 +0300"
@@ -2686,6 +2856,13 @@
     },
     "done": true
   },
+  "twilightforest:progress_yeti": {
+    "criteria": {
+      "fur": "2025-01-07 01:06:29 +0300",
+      "yeti": "2025-01-07 01:06:29 +0300"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_cobblestone": "2024-01-12 01:45:28 +0300"
@@ -2707,6 +2884,12 @@
   "minecraft:recipes/decorations/brown_stained_glass_pane": {
     "criteria": {
       "has_glass": "2024-01-12 05:14:14 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:hill1": {
+    "criteria": {
+      "redcap": "2025-01-07 01:44:15 +0300"
     },
     "done": true
   },
@@ -2734,6 +2917,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/biomes/twilight_highlands": {
+    "criteria": {
+      "discover": "2025-01-07 01:54:44 +0300"
+    },
+    "done": true
+  },
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-01-12 02:11:25 +0300"
@@ -2743,6 +2932,12 @@
   "minecraft:recipes/redstone/wooden_door": {
     "criteria": {
       "has_planks": "2024-01-12 01:54:01 +0300"
+    },
+    "done": true
+  },
+  "twilightforest:alt/entities/ice_cores": {
+    "criteria": {
+      "0": "2025-01-07 00:55:44 +0300"
     },
     "done": true
   },
