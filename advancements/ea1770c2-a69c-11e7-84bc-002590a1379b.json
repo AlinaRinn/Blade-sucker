@@ -1453,6 +1453,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/storage_cell": {
+    "criteria": {
+      "c1k": "2025-03-01 02:30:19 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/fire_charge": {
     "criteria": {
       "has_blaze_powder": "2024-01-13 04:18:27 +0300"
@@ -1725,6 +1731,7 @@
       "baked_potato": "2024-11-05 02:20:06 +0300",
       "apple": "2024-01-12 01:44:12 +0300",
       "spider_eye": "2024-12-07 01:42:49 +0300",
+      "rabbit": "2025-03-01 00:48:31 +0300",
       "pufferfish": "2025-01-19 03:02:10 +0300",
       "bread": "2024-01-12 03:58:20 +0300",
       "golden_apple": "2024-10-21 00:42:24 +0300",
@@ -1959,6 +1966,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2024-01-13 02:32:30 +0300"
+    },
+    "done": true
+  },
+  "divinerpg:overworld/eye_of_evil": {
+    "criteria": {
+      "look_into_the_eye": "2025-02-26 22:10:57 +0300"
     },
     "done": true
   },
@@ -2268,6 +2281,12 @@
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2024-01-12 01:46:46 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/compass": {
+    "criteria": {
+      "compass": "2025-03-01 00:22:47 +0300"
     },
     "done": true
   },
@@ -2781,6 +2800,12 @@
   "buildcraftsilicon:precision_crafting": {
     "criteria": {
       "code_trigger": "2024-01-24 22:20:49 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/fluix": {
+    "criteria": {
+      "certus": "2025-03-01 02:00:55 +0300"
     },
     "done": true
   },
