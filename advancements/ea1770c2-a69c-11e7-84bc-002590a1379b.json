@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wooden_slab": {
+    "criteria": {
+      "has_planks": "2025-03-02 18:40:48 +0300"
+    },
+    "done": true
+  },
   "buildcraftenergy:engine": {
     "criteria": {
       "redstone_engine": "2024-01-13 04:29:24 +0300"
@@ -445,6 +451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-03-02 18:40:48 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2024-01-12 02:11:25 +0300"
@@ -496,6 +508,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2024-01-13 00:01:26 +0300"
+    },
+    "done": true
+  },
+  "enderioconduits:item/2_basic_filter": {
+    "criteria": {
+      "inv_changed-enderio:item_basic_item_filter": "2025-03-03 02:30:00 +0300"
     },
     "done": true
   },
@@ -782,6 +800,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2024-01-12 01:50:45 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/interface": {
+    "criteria": {
+      "certus": "2025-03-03 00:00:50 +0300"
     },
     "done": true
   },
@@ -1435,6 +1459,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-03-02 18:40:48 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/orange_dye_from_red_yellow": {
     "criteria": {
       "has_yellow_dye": "2024-01-13 01:06:00 +0300"
@@ -1732,6 +1762,7 @@
       "apple": "2024-01-12 01:44:12 +0300",
       "spider_eye": "2024-12-07 01:42:49 +0300",
       "rabbit": "2025-03-01 00:48:31 +0300",
+      "melon": "2025-03-03 19:06:25 +0300",
       "pufferfish": "2025-01-19 03:02:10 +0300",
       "bread": "2024-01-12 03:58:20 +0300",
       "golden_apple": "2024-10-21 00:42:24 +0300",
@@ -1868,6 +1899,12 @@
   "minecraft:recipes/tools/golden_shovel": {
     "criteria": {
       "has_gold_ingot": "2024-01-12 02:48:40 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/charger": {
+    "criteria": {
+      "certus": "2025-03-02 20:14:09 +0300"
     },
     "done": true
   },
@@ -2033,6 +2070,7 @@
     "criteria": {
       "inv_changed-enderio:power_conduit_ender2": "2024-12-01 00:50:26 +0300",
       "inv_changed-enderio:redstone_conduit2": "2025-01-07 00:15:35 +0300",
+      "inv_changed-enderio:power_conduit2": "2025-03-04 01:06:36 +0300",
       "inv_changed-enderio:item_conduit2": "2024-12-08 23:58:47 +0300",
       "inv_changed-enderio:liquid_conduit_ender2": "2024-12-08 01:28:37 +0300"
     },
@@ -2077,6 +2115,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2024-01-12 02:11:25 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-03-02 18:40:48 +0300"
     },
     "done": true
   },
@@ -2419,6 +2463,12 @@
     },
     "done": true
   },
+  "appliedenergistics2:main/network_tool": {
+    "criteria": {
+      "network_tool": "2025-03-04 01:43:52 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/end_bricks": {
     "criteria": {
       "has_end_stone": "2024-01-26 00:26:40 +0300"
@@ -2464,6 +2514,12 @@
   "twilightforest:alt/treasures/ice_bomb": {
     "criteria": {
       "ice_bomb": "2025-01-07 01:06:29 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-03-02 18:40:48 +0300"
     },
     "done": true
   },
@@ -2650,6 +2706,12 @@
   "minecraft:recipes/redstone/repeater": {
     "criteria": {
       "has_redstone_torch": "2024-01-14 23:39:57 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/controller": {
+    "criteria": {
+      "certus": "2025-03-03 01:01:20 +0300"
     },
     "done": true
   },
@@ -2863,6 +2925,12 @@
     },
     "done": true
   },
+  "enderioconduits:goals/all_filters": {
+    "criteria": {
+      "inv_changed-enderio:item_basic_item_filter2": "2025-03-03 02:30:00 +0300"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2024-01-12 02:48:40 +0300"
@@ -2951,6 +3019,12 @@
   "minecraft:story/smelt_iron": {
     "criteria": {
       "iron": "2024-01-12 02:11:25 +0300"
+    },
+    "done": true
+  },
+  "appliedenergistics2:main/network1": {
+    "criteria": {
+      "cable": "2025-03-02 22:40:35 +0300"
     },
     "done": true
   },
