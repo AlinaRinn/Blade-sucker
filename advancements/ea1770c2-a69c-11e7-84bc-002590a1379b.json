@@ -365,6 +365,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-03-31 00:54:07 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2024-01-12 02:11:25 +0300"
@@ -971,6 +977,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-03-31 00:54:07 +0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_log": "2024-01-12 01:46:55 +0300"
@@ -1064,6 +1076,12 @@
   "minecraft:recipes/decorations/red_banner": {
     "criteria": {
       "has_red_wool": "2024-01-15 23:44:38 +0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-03-31 00:54:07 +0300"
     },
     "done": true
   },
@@ -1761,6 +1779,7 @@
       "baked_potato": "2024-11-05 02:20:06 +0300",
       "apple": "2024-01-12 01:44:12 +0300",
       "spider_eye": "2024-12-07 01:42:49 +0300",
+      "potato": "2025-03-31 02:36:00 +0300",
       "rabbit": "2025-03-01 00:48:31 +0300",
       "melon": "2025-03-03 19:06:25 +0300",
       "pufferfish": "2025-01-19 03:02:10 +0300",
